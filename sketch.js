@@ -44,7 +44,7 @@ function setup() {
 
 function draw() {
 
-  background(0);
+  background("pink");
   roof.display();
   bobObj.display();
   bobObj2.display();
@@ -52,8 +52,8 @@ function draw() {
   bobObj4.display();
   bobObj5.display();
 
-/*rope1.display();
-  rope2.display();
+rope1.display();
+/*  rope2.display();
   rope3.disply();
   rope4.display();
   rope5.display();*/
